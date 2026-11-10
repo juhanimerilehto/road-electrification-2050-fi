@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite the report as below."
+title: "Road Transport Electrification in Finland: Electricity Consumption Scenarios to 2050 and Power-Market Implications — model and data"
+type: software
+authors:
+  - family-names: Merilehto
+    given-names: Juhani
+    orcid: "https://orcid.org/0000-0002-8010-3725"
+version: 1.0.0
+date-released: 2026-11-10
+license: [CC-BY-4.0, MIT]
+repository-code: "https://github.com/juhanimerilehto/road-electrification-2050-fi"
+url: "https://github.com/juhanimerilehto/road-electrification-2050-fi/tree/v1.0.0"
+keywords:
+  - electric vehicles
+  - road transport
+  - electricity demand
+  - Finland
+  - smart charging
+  - power systems
+  - scenario analysis
+preferred-citation:
+  type: report
+  title: "Road Transport Electrification in Finland: Electricity Consumption Scenarios to 2050 and Power-Market Implications"
+  authors:
+    - family-names: Merilehto
+      given-names: Juhani
+      orcid: "https://orcid.org/0000-0002-8010-3725"
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24106473
+  url: "https://doi.org/10.5281/zenodo.24106473"
+references:
+  - type: report
+    title: "Road Transport Electrification in Finland - Electricity Consumption Trends, Outlook to 2030, and Power-Market Implications"
+    authors:
+      - family-names: Merilehto
+        given-names: Juhani
+        orcid: "https://orcid.org/0000-0002-8010-3725"
+    year: 2026
+    doi: 10.5281/zenodo.21078010

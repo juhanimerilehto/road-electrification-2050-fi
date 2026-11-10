@@ -1,0 +1,46 @@
+state,year,case,evening_peak_mw,share_of_record_pct
+low,2030,"Smart (managed, 10 h)",783.942,5.04046
+low,2030,Moderate evening (50% in 4 h),976.633,6.27939
+low,2030,Concentrated evening (70% in 3 h),1745.26,11.2214
+low,2030,Extreme evening (85% in 2 h),3105.15,19.9649
+low,2030,Concentrated evening + cold snap (winter factor 1.4),1952.16,12.5516
+low,2035,"Smart (managed, 10 h)",1242.23,7.98707
+low,2035,Moderate evening (50% in 4 h),1549.19,9.96071
+low,2035,Concentrated evening (70% in 3 h),2758.54,17.7364
+low,2035,Extreme evening (85% in 2 h),4898.17,31.4934
+low,2035,Concentrated evening + cold snap (winter factor 1.4),3083.35,19.8248
+low,2050,"Smart (managed, 10 h)",2889.66,18.5795
+low,2050,Moderate evening (50% in 4 h),3643.18,23.4243
+low,2050,Concentrated evening (70% in 3 h),6291.68,40.4532
+low,2050,Extreme evening (85% in 2 h),10977.5,70.5812
+low,2050,Concentrated evening + cold snap (winter factor 1.4),6997.88,44.9938
+base,2030,"Smart (managed, 10 h)",1049.79,6.74975
+base,2030,Moderate evening (50% in 4 h),1310.02,8.42296
+base,2030,Concentrated evening (70% in 3 h),2352.44,15.1253
+base,2030,Extreme evening (85% in 2 h),4196.72,26.9834
+base,2030,Concentrated evening + cold snap (winter factor 1.4),2630.75,16.9148
+base,2035,"Smart (managed, 10 h)",1883.93,12.113
+base,2035,Moderate evening (50% in 4 h),2359.41,15.1701
+base,2035,Concentrated evening (70% in 3 h),4192.36,26.9553
+base,2035,Extreme evening (85% in 2 h),7435.27,47.806
+base,2035,Concentrated evening + cold snap (winter factor 1.4),4680.34,30.0928
+base,2050,"Smart (managed, 10 h)",4233.27,27.2183
+base,2050,Moderate evening (50% in 4 h),5412.73,34.8019
+base,2050,Concentrated evening (70% in 3 h),9077.41,58.3643
+base,2050,Extreme evening (85% in 2 h),15561.1,100.052
+base,2050,Concentrated evening + cold snap (winter factor 1.4),10051.1,64.6248
+high,2030,"Smart (managed, 10 h)",1332.92,8.57021
+high,2030,Moderate evening (50% in 4 h),1665.65,10.7095
+high,2030,Concentrated evening (70% in 3 h),2993.43,19.2466
+high,2030,Extreme evening (85% in 2 h),5342.57,34.3507
+high,2030,Concentrated evening + cold snap (winter factor 1.4),3346.39,21.5161
+high,2035,"Smart (managed, 10 h)",2491.76,16.0211
+high,2035,Moderate evening (50% in 4 h),3133.02,20.1441
+high,2035,Concentrated evening (70% in 3 h),5522.69,35.5089
+high,2035,Extreme evening (85% in 2 h),9750.58,62.6926
+high,2035,Concentrated evening + cold snap (winter factor 1.4),6157.06,39.5876
+high,2050,"Smart (managed, 10 h)",5245.28,33.7252
+high,2050,Moderate evening (50% in 4 h),6751.97,43.4127
+high,2050,Concentrated evening (70% in 3 h),11191.8,71.9592
+high,2050,Extreme evening (85% in 2 h),19046.9,122.465
+high,2050,Concentrated evening + cold snap (winter factor 1.4),12371,79.5411

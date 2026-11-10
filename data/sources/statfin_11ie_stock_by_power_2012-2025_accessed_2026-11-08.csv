@@ -1,0 +1,57 @@
+﻿"Traffic use","Vehicle class","Year","Total Number of the vehicles","Electricity Number of the vehicles","Petrol/Electricity (plug-in hybrid) Number of the vehicles","Diesel/Electricity (plug-in hybrid) Number of the vehicles"
+"In traffic","Passenger cars","2012",2560190,109,0,0
+"In traffic","Passenger cars","2013",2575951,169,0,0
+"In traffic","Passenger cars","2014",2595867,360,449,117
+"In traffic","Passenger cars","2015",2612922,614,882,135
+"In traffic","Passenger cars","2016",2629432,844,2197,240
+"In traffic","Passenger cars","2017",2668930,1449,5214,505
+"In traffic","Passenger cars","2018",2696334,2404,12061,1034
+"In traffic","Passenger cars","2019",2720307,4661,22653,2050
+"In traffic","Passenger cars","2020",2748448,9697,42658,2963
+"In traffic","Passenger cars","2021",2755349,22921,72363,4627
+"In traffic","Passenger cars","2022",2740393,44889,98353,5686
+"In traffic","Passenger cars","2023",2756015,83762,128564,6542
+"In traffic","Passenger cars","2024",2767803,118297,159381,7468
+"In traffic","Passenger cars","2025",2696432,164705,179102,7937
+"In traffic","Vans","2012",299088,84,0,0
+"In traffic","Vans","2013",301012,84,0,0
+"In traffic","Vans","2014",304255,96,1,0
+"In traffic","Vans","2015",307706,129,1,0
+"In traffic","Vans","2016",311376,170,7,0
+"In traffic","Vans","2017",319460,210,12,2
+"In traffic","Vans","2018",325656,256,19,10
+"In traffic","Vans","2019",330671,312,25,14
+"In traffic","Vans","2020",338389,444,82,25
+"In traffic","Vans","2021",343927,796,128,54
+"In traffic","Vans","2022",343715,1556,185,73
+"In traffic","Vans","2023",343976,3181,212,82
+"In traffic","Vans","2024",346067,4470,308,98
+"In traffic","Vans","2025",332711,6502,767,103
+"In traffic","Lorries, > 3.5 tonnes","2012",96714,0,0,0
+"In traffic","Lorries, > 3.5 tonnes","2013",96733,0,0,0
+"In traffic","Lorries, > 3.5 tonnes","2014",95176,0,0,0
+"In traffic","Lorries, > 3.5 tonnes","2015",95250,1,0,0
+"In traffic","Lorries, > 3.5 tonnes","2016",94780,1,0,0
+"In traffic","Lorries, > 3.5 tonnes","2017",95948,1,0,0
+"In traffic","Lorries, > 3.5 tonnes","2018",96169,2,0,0
+"In traffic","Lorries, > 3.5 tonnes","2019",95141,2,0,0
+"In traffic","Lorries, > 3.5 tonnes","2020",94691,7,0,0
+"In traffic","Lorries, > 3.5 tonnes","2021",94771,9,0,0
+"In traffic","Lorries, > 3.5 tonnes","2022",92633,25,0,0
+"In traffic","Lorries, > 3.5 tonnes","2023",90086,65,0,5
+"In traffic","Lorries, > 3.5 tonnes","2024",89526,126,1,6
+"In traffic","Lorries, > 3.5 tonnes","2025",88569,222,1,7
+"In traffic","Buses, coaches","2012",12012,1,0,0
+"In traffic","Buses, coaches","2013",12183,3,0,0
+"In traffic","Buses, coaches","2014",12446,5,0,0
+"In traffic","Buses, coaches","2015",12455,5,0,0
+"In traffic","Buses, coaches","2016",12471,13,0,0
+"In traffic","Buses, coaches","2017",12623,22,0,0
+"In traffic","Buses, coaches","2018",12481,21,0,0
+"In traffic","Buses, coaches","2019",12577,62,0,3
+"In traffic","Buses, coaches","2020",9955,87,0,2
+"In traffic","Buses, coaches","2021",10476,271,0,2
+"In traffic","Buses, coaches","2022",11115,550,0,2
+"In traffic","Buses, coaches","2023",11000,653,0,2
+"In traffic","Buses, coaches","2024",11139,962,0,0
+"In traffic","Buses, coaches","2025",11173,1106,0,0

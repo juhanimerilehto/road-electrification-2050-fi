@@ -1,0 +1,17 @@
+"12sz -- Energy consumption in transport, 1990-2025*"
+
+"Year","Energy source","Transportation sector","Quantity (TJ)","Quantity (GWh)","Quantity, year-on-year change (%)"
+"2012","9 Electricity","A Road transport",0,0,..
+"2013","9 Electricity","A Road transport",3,1,2879.4
+"2014","9 Electricity","A Road transport",11,3,283.8
+"2015","9 Electricity","A Road transport",20,5,85.3
+"2016","9 Electricity","A Road transport",35,10,78.3
+"2017","9 Electricity","A Road transport",79,22,127.1
+"2018","9 Electricity","A Road transport",166,46,110.3
+"2019","9 Electricity","A Road transport",261,73,57.2
+"2020","9 Electricity","A Road transport",453,126,73.7
+"2021","9 Electricity","A Road transport",850,236,87.4
+"2022","9 Electricity","A Road transport",1126,313,32.5
+"2023","9 Electricity","A Road transport",1968,547,74.8
+"2024","9 Electricity","A Road transport",2796,777,42.1
+"2025*","9 Electricity","A Road transport",4003,1112,43.2

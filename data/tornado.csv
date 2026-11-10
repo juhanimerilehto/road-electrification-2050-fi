@@ -1,0 +1,13 @@
+parameter,range,low_twh,high_twh,base_twh,low_peak_mw,high_peak_mw,base_peak_mw
+Light-duty electricity per EV by 2050,-15% / +10%,10.4832,12.9526,11.9648,7893.44,9866.72,9077.41
+Calibration factor kappa,decays 1.17 to 1.00 / held,10.4941,11.9648,11.9648,7902.15,9077.41,9077.41
+Car electric-entry ceiling,0.85 / 1.00,11.2424,12.2916,11.9648,8500.13,9338.5,9077.41
+Long-haul truck ceiling,0.40 / 0.90,11.5401,12.2483,11.9648,8861.08,9221.76,9077.41
+Fleet size in 2050,-5% / +5%,11.6313,12.2983,11.9648,8826.91,9327.9,9077.41
+Heavy-duty km or kWh/km,-15% / +15%,11.6517,12.2779,11.9648,8899.77,9255.05,9077.41
+Regional truck ceiling,0.60 / 0.95,11.7791,12.0392,11.9648,8949.25,9128.72,9077.41
+PHEV entry share 2040,0.00 / 0.10,11.9053,12.086,11.9648,9029.84,9174.29,9077.41
+Charging losses (heavy duty),6% / 15%,11.8889,12.0597,11.9648,9034.34,9131.24,9077.41
+Mean register life (and entry rate),+3 yr / -3 yr,11.831,11.9913,11.9648,8985.48,9080.75,9077.41
+Evening share in 3 h,50% / 85%,11.9648,11.9648,11.9648,6822.22,10768.8,9077.41
+Winter-day factor (light duty),1.10 / 1.40,11.9648,11.9648,11.9648,8103.73,10051.1,9077.41

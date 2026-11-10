@@ -1,0 +1,359 @@
+\begin{thebibliography}{41}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Autoalan Tiedotuskeskus}(2026)]{aut2026review}
+{Autoalan Tiedotuskeskus}.
+\newblock Automarkkinoiden vuosikatsaus 2025.
+\newblock Presentation, 23 January 2026.
+  \url{https://aut.fi/wp-content/uploads/2026/01/Henkiloautomarkkinan-vuosikatsaus-2025.pdf},
+  January 2026.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[Borenius et~al.(2022)Borenius, Tuomainen, Tompuri, Mansikkam{\"a}ki,
+  Lehtonen, H{\"a}mm{\"a}inen, and Kantola]{borenius2022scenarios}
+Seppo Borenius, Petri Tuomainen, Jyri Tompuri, Jesse Mansikkam{\"a}ki, Matti
+  Lehtonen, Heikki H{\"a}mm{\"a}inen, and Raimo Kantola.
+\newblock Scenarios on the impact of electric vehicles on distribution grids.
+\newblock \emph{Energies}, 15\penalty0 (13):\penalty0 4534, 2022.
+\newblock \doi{10.3390/en15134534}.
+\newblock URL \url{https://doi.org/10.3390/en15134534}.
+
+\bibitem[{electrive.com}(2026{\natexlab{a}})]{electrive2026envi}
+{electrive.com}.
+\newblock {EU} {Parliament}: {Environment} {Committee} votes to relax {CO}$_2$
+  rules.
+\newblock 5 November 2026.
+  \url{https://www.electrive.com/2026/11/05/eu-parliament-environment-committee-votes-to-relax-co2-rules/},
+  November 2026{\natexlab{a}}.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{electrive.com}(2026{\natexlab{b}})]{electrive2026plugit}
+{electrive.com}.
+\newblock Plugit reports first public {MCS} charging session in {Finland}.
+\newblock 26 October 2026.
+  \url{https://www.electrive.com/2026/10/26/plugit-reports-first-public-mcs-charging-session-in-finland/},
+  October 2026{\natexlab{b}}.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Energiavirasto}(2026)]{energiavirasto2026jakelu}
+{Energiavirasto}.
+\newblock Jakeluvelvoite.
+\newblock \url{https://energiavirasto.fi/jakeluvelvoite}, 2026.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[{Eunews}(2026)]{eunews2026envi}
+{Eunews}.
+\newblock The environment committee scales back the {CO}$_2$ reduction target
+  for cars.
+\newblock 4 November 2026.
+  \url{https://www.eunews.it/en/2026/11/04/parliament-gives-initial-approval-to-the-backtracking-on-the-ban-on-internal-combustion-engines-from-2035/},
+  November 2026.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{European Parliament Legislative Observatory}(2024)]{oeil2024hdv}
+{European Parliament Legislative Observatory}.
+\newblock Strengthening the {CO}$_2$ emission performance targets for new
+  heavy-duty vehicles, procedure 2023/0042({COD}): summary of the final act,
+  {Regulation (EU)} 2024/1610.
+\newblock
+  \url{https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1785406},
+  2024.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{European Parliamentary Research Service}(2026)]{eprs2026co2}
+{European Parliamentary Research Service}.
+\newblock Revision of {CO}$_2$ emission performance standards for new cars and
+  vans.
+\newblock Briefing PE 782.664.
+  \url{https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/782664/EPRS_BRI(2026)782664_EN.pdf},
+  February 2026.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{EY} and {Eurelectric}(2025)]{ey2025flex}
+{EY} and {Eurelectric}.
+\newblock Plugging into potential: unleashing the untapped flexibility of
+  {EVs}.
+\newblock Technical report, EY and Eurelectric, 2025.
+\newblock URL
+  \url{https://www.ey.com/content/dam/ey-unified-site/ey-com/fr-fr/insights/automotive/documents/ey-eurelectric-flexibility-study-2025-20250306.pdf}.
+
+\bibitem[{Fingrid}(2023)]{fingrid2023vision}
+{Fingrid}.
+\newblock Fingrid's electricity system vision 2023.
+\newblock
+  \url{https://www.fingrid.fi/globalassets/dokumentit/en/news/electricity-market/2023/fingrid_electricity_system_vision_2023.pdf},
+  2023.
+\newblock Four scenarios with 2035 and 2045 horizons. Accessed 8 November 2026.
+
+\bibitem[{Fingrid}(2025)]{fingrid2025vision}
+{Fingrid}.
+\newblock Fingridin s{\"a}hk{\"o}j{\"a}rjestelm{\"a}visio vuodelle 2040 --
+  loppuraportti.
+\newblock
+  \url{https://www.fingrid.fi/globalassets/dokumentit/fi/kantaverkko/kantaverkon-kehittaminen/sahkojarjestelmavisio-2025/fingrid-sahkojarjestelmavisio-2040.-loppuraportti-10_2025.pdf},
+  October 2025.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{a}})]{fingrid2026prospects}
+{Fingrid}.
+\newblock Prospects for electricity production and consumption: {Fingrid}'s
+  forecast {Q3/2026}.
+\newblock
+  \url{https://www.fingrid.fi/globalassets/dokumentit/fi/kantaverkko/kantaverkon-kehittaminen/best-estimate-q3-2026/fingrid_prospects-q3-2026-eng.pdf},
+  September 2026{\natexlab{a}}.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{b}})]{fingrid2026q1}
+{Fingrid}.
+\newblock Fingrid group -- management's review 1.1.--31.3.2026.
+\newblock
+  \url{https://www.fingrid.fi/en/news/news/2026/fingrid-group--managements-review-1.1.31.3.2026/},
+  April 2026{\natexlab{b}}.
+\newblock All-time Finnish consumption record of 15\,553~MW, January 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{c}})]{fingrid2026q3}
+{Fingrid}.
+\newblock Fingrid group -- management's review 1.1.--30.9.2026.
+\newblock Published 29 October 2026.
+  \url{https://www.sttinfo.fi/tiedote/72456696/fingrid-group-managements-review-11-3092026?publisherId=69819787},
+  October 2026{\natexlab{c}}.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Finnish Government}(2021)]{vn2021roadmap}
+{Finnish Government}.
+\newblock Government decided on means of reducing emissions from road transport
+  -- emissions to be halved by 2030.
+\newblock Press release, 6 May 2021.
+  \url{https://valtioneuvosto.fi/en/-/government-decided-on-means-of-reducing-emissions-from-road-transport-emissions-to-be-halved-by-2030},
+  May 2021.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Fraunhofer ISI} and {Oeko-Institut}(2025)]{te2025depot}
+{Fraunhofer ISI} and {Oeko-Institut}.
+\newblock Truck depot charging.
+\newblock Technical report, Transport \& Environment, 2025.
+\newblock URL
+  \url{https://uploads.transportenvironment.org/production/files/TE_truck-depot-charging_final-report.pdf}.
+\newblock Final report, February 2025 (updated May 2025).
+
+\bibitem[Holmefjord(2019)]{statnett2019}
+Vegard Holmefjord.
+\newblock An electric {Norway} -- from fossil to electricity.
+\newblock Technical report, Statnett, May 2019.
+\newblock URL
+  \url{https://www.statnett.no/contentassets/337e930cb5b349d49783fb9c12529b8c/20190516-an-electric-norway--from-fossil-to-electricity.pdf}.
+
+\bibitem[{IEA Advanced Motor Fuels TCP}(2025)]{ieaamf2025finland}
+{IEA Advanced Motor Fuels TCP}.
+\newblock Country report: {Finland}.
+\newblock Technical report, IEA AMF, 2025.
+\newblock URL
+  \url{https://iea-amf.org/app/webroot/files/file/Country_Task_Reports_2024_pdf/2025_Finland.pdf}.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{International Council on Clean Transportation}(2023)]{icct2023afir}
+{International Council on Clean Transportation}.
+\newblock Alternative fuels infrastructure regulation ({AFIR}): policy update.
+\newblock Technical report, ICCT, April 2023.
+\newblock URL
+  \url{https://theicct.org/wp-content/uploads/2023/04/AFIR-EU-Policy-Update-A4-Final.pdf}.
+\newblock Summary of the trilogue agreement later adopted as {Regulation (EU)}
+  2023/1804.
+
+\bibitem[{International Energy Agency}(2022)]{iea2022grid}
+{International Energy Agency}.
+\newblock Grid integration of electric vehicles: A manual for policy makers.
+\newblock Technical report, IEA, 2022.
+\newblock URL
+  \url{https://iea.blob.core.windows.net/assets/21fe1dcb-c7ca-4e32-91d4-928715c9d14b/GridIntegrationofElectricVehicles.pdf}.
+
+\bibitem[Kemp(2026)]{kemp2026enlit}
+Yunus Kemp.
+\newblock Finnish {EV} pilot shows flexibility can ease grid strain.
+\newblock Enlit World, 4 June 2026.
+  \url{https://www.enlit.world/library/finnish-ev-pilot-shows-flexibility-can-ease-grid-strain},
+  June 2026.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Kempower}(2026)]{kempower2026kotka}
+{Kempower}.
+\newblock Kempower supplies {Plugit}'s first public {MCS} charging station in
+  {Kotka}, {Finland}.
+\newblock Press release, 27 January 2026.
+  \url{https://kempower.com/news/kempower-is-powering-plugits-first-public-mcs-charging-station-in-kotka-finland-as-part-of-new-sales-service-partnership/},
+  January 2026.
+\newblock Accessed 8 November 2026.
+
+\bibitem[Le~Corguill{\'e} et~al.(2025)Le~Corguill{\'e}, Hacker, G{\"o}ckeler,
+  Mottschall, and Dolinga]{oeko2025elv}
+Julien Le~Corguill{\'e}, Florian Hacker, Katharina G{\"o}ckeler, Moritz
+  Mottschall, and Tilman Dolinga.
+\newblock Real-world data analysis of energy consumption, activity and charging
+  patterns of battery electric trucks operating in {Germany}.
+\newblock Elv-live project report, {\"O}ko-Institut, 2025.
+\newblock URL
+  \url{https://www.oeko.de/publikation/real-world-data-analysis-of-battery-electric-trucks-operating-in-germany/}.
+
+\bibitem[{LUT University}(2026)]{lut2026charging}
+{LUT University}.
+\newblock New information about electric vehicle charging and its impact on the
+  electricity grid.
+\newblock
+  \url{https://www.lut.fi/en/news/new-information-about-electric-vehicle-charging-and-its-impact-electricity-grid},
+  2026.
+\newblock Updated 16 June 2026. Accessed 8 November 2026.
+
+\bibitem[Merilehto(2026{\natexlab{a}})]{merilehto2026blog}
+Juhani Merilehto.
+\newblock Suomen s{\"a}hk{\"o}markkinan j{\"a}lkiteollinen vallankumous --
+  datakeskusten tulo vaatii joustoa muilta markkinatoimijoilta.
+\newblock Gasum blog, 5 October 2026.
+  \url{https://www.gasum.com/fi/uutiset-ja-asiakastarinat/blogit/2026/suomen-sahkomarkkinan-jalkiteollinen-vallankumous--datakeskusten-tulo-vaatii-joustoa-muilta-markkinatoimijoilta/},
+  October 2026{\natexlab{a}}.
+\newblock In Finnish. [The post-industrial revolution of the Finnish
+  electricity market: the arrival of data centres requires flexibility from
+  other market actors].
+
+\bibitem[Merilehto(2026{\natexlab{b}})]{merilehto2026road2030}
+Juhani Merilehto.
+\newblock Road transport electrification in {Finland} -- electricity
+  consumption trends, outlook to 2030, and power-market implications.
+\newblock Technical report, Zenodo, 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.21078010}.
+\newblock Version 1.0, 12 June 2026.
+
+\bibitem[{Ministry of Economic Affairs and Employment}(2026)]{meae2026ltcp}
+{Ministry of Economic Affairs and Employment}.
+\newblock Pitk{\"a}n aikav{\"a}lin ilmastosuunnitelma [{Long-term} climate
+  plan].
+\newblock Ty{\"o}- ja elinkeinoministeri{\"o}n julkaisuja 2026:6, Ty{\"o}- ja
+  elinkeinoministeri{\"o} (Ministry of Economic Affairs and Employment),
+  February 2026.
+\newblock URL \url{https://urn.fi/URN:ISBN:978-952-327-984-1}.
+\newblock Eds.\ R. Huttunen, P. Kuuva, B. Lemstr{\"o}m, P. Hirvonen and M.
+  Kinnunen. 24 February 2026. ISBN 978-952-327-984-1. In Finnish. Electricity
+  consumption pp.~48--51, data centres p.~53 (printed page numbers). Accessed 8
+  November 2026.
+
+\bibitem[{Nordic Energy Research}(2025)]{norden2025flex}
+{Nordic Energy Research}.
+\newblock Demand side flexibility in the {Nordics}: lessons learned from 10
+  case studies.
+\newblock Technical report, Nordic Council of Ministers, 2025.
+\newblock URL
+  \url{https://pub.norden.org/nordicenergyresearch2025-03/current-utilisation-of-flexibility-in-the-nordics.html}.
+
+\bibitem[Popa(2026)]{popa2026adac}
+Darius Popa.
+\newblock {ADAC} tested five {EVs} for charging losses. one wasted a quarter of
+  the energy.
+\newblock The Next Web, 19 August 2026.
+  \url{https://thenextweb.com/news/adac-ev-home-charging-losses-wallbox-socket},
+  August 2026.
+\newblock Reporting ADAC measurements. Accessed 8 November 2026.
+
+\bibitem[{S{\"a}hk{\"o}inen liikenne ry}(2026)]{sahkoinenliikenne2026q3}
+{S{\"a}hk{\"o}inen liikenne ry}.
+\newblock S{\"a}hk{\"o}isen liikenteen tilannekatsaus {Q3/2026}.
+\newblock 30 October 2026.
+  \url{https://teknologiateollisuus.fi/emobility/wp-content/uploads/sites/9/2026/10/2026-Q3-SahkoinenLiikenne-tilannekatsaus-2026-10-30-jaettava.pdf},
+  October 2026.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[Simolin et~al.(2020)Simolin, Rauma, Viri, M{\"a}kinen, Rautiainen, and
+  J{\"a}rventausta]{simolin2020}
+Toni Simolin, Kalle Rauma, Riku Viri, Johanna M{\"a}kinen, Antti Rautiainen,
+  and Pertti J{\"a}rventausta.
+\newblock Optimised controlled charging of electric vehicles under peak
+  power-based electricity pricing.
+\newblock \emph{IET Smart Grid}, 2020.
+
+\bibitem[{SKAL}(2026)]{skal2026}
+{SKAL}.
+\newblock Muuttuvia s{\"a}{\"a}d{\"o}ksi{\"a} vuosille 2026--2028.
+\newblock 28 January 2026.
+  \url{https://skal.fi/muuttuvia-saadoksia-vuosille-2026-2028/}, January 2026.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[{Statistics Finland}(2026{\natexlab{a}})]{statfin2026_11ie}
+{Statistics Finland}.
+\newblock Cars by driving power, 1990--2025 ({PX-Web} table 11ie).
+\newblock
+  \url{https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__mkan/11ie.px/},
+  2026{\natexlab{a}}.
+\newblock Vehicles in traffic use at year end. Accessed 8 November 2026.
+
+\bibitem[{Statistics Finland}(2026{\natexlab{b}})]{statfin2026_12jx}
+{Statistics Finland}.
+\newblock Traffic performance in streets and highways by vehicle class,
+  1980--2025 ({PX-Web} table 12jx).
+\newblock
+  \url{https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__tiet/12jx.px/},
+  2026{\natexlab{b}}.
+\newblock Million vehicle-kilometres. Accessed 8 November 2026.
+
+\bibitem[{Statistics Finland}(2026{\natexlab{c}})]{statfin2026_12sz}
+{Statistics Finland}.
+\newblock Energy consumption in transport, 1990--2025* ({PX-Web} table 12sz).
+\newblock
+  \url{https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__ehk/12sz.px/},
+  2026{\natexlab{c}}.
+\newblock Table updated 1 July 2026; 2025 preliminary. Accessed 8 November
+  2026.
+
+\bibitem[{Statistics Finland}(2026{\natexlab{d}})]{statfin2026release}
+{Statistics Finland}.
+\newblock Energy consumption in domestic transport decreased by 3 per cent in
+  2025.
+\newblock Release, 9 June 2026.
+  \url{https://stat.fi/en/publication/cmg0l76ih93g907t7if0jxu24}, June
+  2026{\natexlab{d}}.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Statistics Finland}(2026{\natexlab{e}})]{statfin2026traffic}
+{Statistics Finland}.
+\newblock Tieliikenteen kokonaissuorite kasvoi prosentin vuonna 2025.
+\newblock Release, 16 April 2026.
+  \url{https://stat.fi/fi/julkaisu/cmfv5oueq5hr208vzkt5776kk}, April
+  2026{\natexlab{e}}.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[Tilli(2025)]{traficom2025tilli}
+Aki Tilli.
+\newblock Tieliikenteen s{\"a}hk{\"o}istymisen kehitys {Suomessa}.
+\newblock Traficom presentation, 5 December 2025.
+  \url{https://www.traficom.fi/sites/default/files/media/file/SUMP5.12.25AkiTilli.pdf},
+  December 2025.
+\newblock In Finnish. Accessed 8 November 2026.
+
+\bibitem[{Vattenfall}(2026)]{vattenfall2026v2g}
+{Vattenfall}.
+\newblock Large-scale pilot in {Sweden} explores new role for electric
+  vehicles.
+\newblock Press release, 15 April 2026.
+  \url{https://group.vattenfall.com/press-and-media/newsroom/2026/large-scale-pilot-in-sweden-explores-new-role-for-electric-vehicles/},
+  April 2026.
+\newblock Accessed 8 November 2026.
+
+\bibitem[{Virta}(2026)]{virta2026fcrd}
+{Virta}.
+\newblock {FCR-D} for {EV} charging networks: how {Nordic} reserve revenue
+  works.
+\newblock 23 October 2026.
+  \url{https://www.virta.global/blog/fcr-d-revenue-ev-charging-networks-nordics},
+  October 2026.
+\newblock Vendor publication. Accessed 8 November 2026.
+
+\bibitem[Xu et~al.(2019)Xu, Wang, Lin, and Ouyang]{xu2019seasonal}
+Hao Xu, Hewu Wang, Zhenhong Lin, and Minggao Ouyang.
+\newblock Seasonal effects on electric vehicle energy consumption and driving
+  range: A case study on personal, taxi, and ridesharing vehicles.
+\newblock \emph{Journal of Cleaner Production}, page 119403, 2019.
+\newblock \doi{10.1016/j.jclepro.2019.119403}.
+\newblock URL \url{https://doi.org/10.1016/j.jclepro.2019.119403}.
+
+\end{thebibliography}

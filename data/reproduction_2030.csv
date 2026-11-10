@@ -1,0 +1,41 @@
+item,reproduced,published
+12sz road electricity 2012 (GWh),0,0
+12sz road electricity 2013 (GWh),1,1
+12sz road electricity 2014 (GWh),3,3
+12sz road electricity 2015 (GWh),5,5
+12sz road electricity 2016 (GWh),10,10
+12sz road electricity 2017 (GWh),22,22
+12sz road electricity 2018 (GWh),46,46
+12sz road electricity 2019 (GWh),73,73
+12sz road electricity 2020 (GWh),126,126
+12sz road electricity 2021 (GWh),236,236
+12sz road electricity 2022 (GWh),313,313
+12sz road electricity 2023 (GWh),547,547
+12sz road electricity 2024 (GWh),777,777
+12sz road electricity 2025 (GWh),1112,1112
+"2030 low (GWh), 1112*(1+0.15)^5",2236.63,2237
+2030 low share of 113 TWh (%),1.9793,2
+"2030 base (GWh), 1112*(1+0.22)^5",3005.41,3005
+2030 base share of 113 TWh (%),2.6597,2.7
+"2030 high (GWh), 1112*(1+0.28)^5",3820.8,3821
+2030 high share of 113 TWh (%),3.3812,3.4
+"2030 low (TWh, abstract)",2.2366,2.24
+"2030 high (TWh, abstract)",3.8208,3.82
+"2030 base (TWh, abstract 'about 3.0')",3.0054,3
+CAGR 2014-2024 (%),74.3131,74.3
+CAGR 2016-2025 (%),68.7893,68.8
+CAGR 2019-2024 (%),60.4795,60.5
+CAGR 2020-2025 (%),54.5777,54.6
+CAGR 2022-2025 (%),52.5879,52.6
+CAGR 2023-2025 (%),42.58,42.6
+2025 share of 84.6 TWh (%),1.3144,1.31
+2025 average load (MW),126.941,127
+2030 base average load (MW),343.084,343
+2030 base daily energy (GWh),8.234,8.2
+2030 evening block 70%/3 h (GW),1.9213,1.92
+2030 managed block 100%/10 h (GW),0.8234,0.8
+2025-2030 base increment (TWh),1.8934,1.9
+Table 4 bottom-up total (TWh),3,3
+Table 6 row 1 (MW),300,300
+Table 6 row 2 (MW),750,750
+Table 6 row 3 (MW),1250,1250

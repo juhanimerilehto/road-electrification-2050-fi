@@ -1,0 +1,157 @@
+variant,year,twh
+Base,2025,1.112
+Base,2026,1.41688
+Base,2027,1.75796
+Base,2028,2.13597
+Base,2029,2.55159
+Base,2030,3.00541
+Base,2031,3.44363
+Base,2032,3.90292
+Base,2033,4.38071
+Base,2034,4.87327
+Base,2035,5.37627
+Base,2036,5.88522
+Base,2037,6.39585
+Base,2038,6.90416
+Base,2039,7.40652
+Base,2040,7.89954
+Base,2041,8.38212
+Base,2042,8.85332
+Base,2043,9.3104
+Base,2044,9.75098
+Base,2045,10.173
+Base,2046,10.575
+Base,2047,10.9557
+Base,2048,11.3145
+Base,2049,11.6508
+Base,2050,11.9648
+Delay 5 yr,2025,1.112
+Delay 5 yr,2026,1.41688
+Delay 5 yr,2027,1.75796
+Delay 5 yr,2028,2.13597
+Delay 5 yr,2029,2.55159
+Delay 5 yr,2030,3.00541
+Delay 5 yr,2031,3.42493
+Delay 5 yr,2032,3.82918
+Delay 5 yr,2033,4.21788
+Delay 5 yr,2034,4.59074
+Delay 5 yr,2035,4.94745
+Delay 5 yr,2036,5.30644
+Delay 5 yr,2037,5.68505
+Delay 5 yr,2038,6.0808
+Delay 5 yr,2039,6.49006
+Delay 5 yr,2040,6.90872
+Delay 5 yr,2041,7.33255
+Delay 5 yr,2042,7.75762
+Delay 5 yr,2043,8.18031
+Delay 5 yr,2044,8.5974
+Delay 5 yr,2045,9.00594
+Delay 5 yr,2046,9.40532
+Delay 5 yr,2047,9.79505
+Delay 5 yr,2048,10.1729
+Delay 5 yr,2049,10.5368
+Delay 5 yr,2050,10.8853
+Delay 10 yr,2025,1.112
+Delay 10 yr,2026,1.41688
+Delay 10 yr,2027,1.75796
+Delay 10 yr,2028,2.13597
+Delay 10 yr,2029,2.55159
+Delay 10 yr,2030,3.00541
+Delay 10 yr,2031,3.42493
+Delay 10 yr,2032,3.82918
+Delay 10 yr,2033,4.21788
+Delay 10 yr,2034,4.59074
+Delay 10 yr,2035,4.94745
+Delay 10 yr,2036,5.28773
+Delay 10 yr,2037,5.61131
+Delay 10 yr,2038,5.91797
+Delay 10 yr,2039,6.20753
+Delay 10 yr,2040,6.4799
+Delay 10 yr,2041,6.75377
+Delay 10 yr,2042,7.04683
+Delay 10 yr,2043,7.35694
+Delay 10 yr,2044,7.68094
+Delay 10 yr,2045,8.01512
+Delay 10 yr,2046,8.35576
+Delay 10 yr,2047,8.69935
+Delay 10 yr,2048,9.04278
+Delay 10 yr,2049,9.38324
+Delay 10 yr,2050,9.71821
+Stalled from 2030,2025,1.112
+Stalled from 2030,2026,1.41688
+Stalled from 2030,2027,1.75796
+Stalled from 2030,2028,2.13597
+Stalled from 2030,2029,2.55159
+Stalled from 2030,2030,3.00541
+Stalled from 2030,2031,3.42493
+Stalled from 2030,2032,3.82918
+Stalled from 2030,2033,4.21788
+Stalled from 2030,2034,4.59074
+Stalled from 2030,2035,4.94745
+Stalled from 2030,2036,5.28773
+Stalled from 2030,2037,5.61131
+Stalled from 2030,2038,5.91797
+Stalled from 2030,2039,6.20753
+Stalled from 2030,2040,6.4799
+Stalled from 2030,2041,6.73507
+Stalled from 2030,2042,6.97308
+Stalled from 2030,2043,7.19411
+Stalled from 2030,2044,7.3984
+Stalled from 2030,2045,7.58631
+Stalled from 2030,2046,7.75827
+Stalled from 2030,2047,7.91482
+Stalled from 2030,2048,8.05658
+Stalled from 2030,2049,8.18425
+Stalled from 2030,2050,8.29857
+Stalled from 2035,2025,1.112
+Stalled from 2035,2026,1.41688
+Stalled from 2035,2027,1.75796
+Stalled from 2035,2028,2.13597
+Stalled from 2035,2029,2.55159
+Stalled from 2035,2030,3.00541
+Stalled from 2035,2031,3.44363
+Stalled from 2035,2032,3.90292
+Stalled from 2035,2033,4.38071
+Stalled from 2035,2034,4.87327
+Stalled from 2035,2035,5.37627
+Stalled from 2035,2036,5.87234
+Stalled from 2035,2037,6.34654
+Stalled from 2035,2038,6.79868
+Stalled from 2035,2039,7.22862
+Stalled from 2035,2040,7.63625
+Stalled from 2035,2041,8.0215
+Stalled from 2035,2042,8.38442
+Stalled from 2035,2043,8.7251
+Stalled from 2035,2044,9.04374
+Stalled from 2035,2045,9.34065
+Stalled from 2035,2046,9.61622
+Stalled from 2035,2047,9.87094
+Stalled from 2035,2048,10.1054
+Stalled from 2035,2049,10.3203
+Stalled from 2035,2050,10.5165
+2025 entry shares frozen,2025,1.112
+2025 entry shares frozen,2026,1.37669
+2025 entry shares frozen,2027,1.63322
+2025 entry shares frozen,2028,1.88144
+2025 entry shares frozen,2029,2.12119
+2025 entry shares frozen,2030,2.35224
+2025 entry shares frozen,2031,2.57437
+2025 entry shares frozen,2032,2.78733
+2025 entry shares frozen,2033,2.9909
+2025 entry shares frozen,2034,3.18484
+2025 entry shares frozen,2035,3.36895
+2025 entry shares frozen,2036,3.54305
+2025 entry shares frozen,2037,3.70701
+2025 entry shares frozen,2038,3.86073
+2025 entry shares frozen,2039,4.00419
+2025 entry shares frozen,2040,4.13742
+2025 entry shares frozen,2041,4.26049
+2025 entry shares frozen,2042,4.37357
+2025 entry shares frozen,2043,4.47688
+2025 entry shares frozen,2044,4.57071
+2025 entry shares frozen,2045,4.65539
+2025 entry shares frozen,2046,4.73135
+2025 entry shares frozen,2047,4.79903
+2025 entry shares frozen,2048,4.85893
+2025 entry shares frozen,2049,4.91157
+2025 entry shares frozen,2050,4.95751

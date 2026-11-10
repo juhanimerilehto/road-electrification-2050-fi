@@ -1,0 +1,10 @@
+site,mw
+"Bus depot, 100 e-buses, 150 kW chargers, all start on return (simultaneity 0.9)",13.5
+"Bus depot, 100 e-buses, energy spread over 8 h",2.38543
+"Truck depot, 40 trucks x 50 kW (T&E 2025 example)",2
+"Truck depot, 40 trucks x 150 kW (T&E 2025 example)",6
+Kotka MCS hub as installed (3 x 600 kW units),1.8
+"AFIR core TEN-T pool, 2030 minimum",3.6
+"Corridor hub, 4 MCS (1.2 MW) + 4 CCS (0.4 MW), simultaneity 0.8",5.12
+Memo: bus energy per winter day (kWh),190.834
+Memo: long-haul truck energy per operating winter day (kWh),339.392

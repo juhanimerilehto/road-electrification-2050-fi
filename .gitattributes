@@ -1,0 +1,4 @@
+data/inputs/* -text
+data/sources/* -text
+*.png binary
+*.pdf binary
